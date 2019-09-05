@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img width="150" src="https://raw.githubusercontent.com/notAlaanor/homey-theme/master/.media/icon.png">
-</p>
+</p> -->
 
 <p align="center">
   <img width="350" src="https://raw.githubusercontent.com/notAlaanor/homey-theme/master/.media/text.png">
@@ -8,4 +8,6 @@
 
 An orange-oriented theme for a warm and low contrast editor workspace.
 
-![Screenshot](.media/screenshot.png)
+Variant with no blue colors
+
+<!-- ![Screenshot](.media/screenshot.png) -->

@@ -365,7 +365,7 @@
       "name": "Property",
       "scope": "variable.other.property",
       "settings": {
-        "foreground": "#448c8f"
+        "foreground": "#cecb0e"
       }
     },
     {
